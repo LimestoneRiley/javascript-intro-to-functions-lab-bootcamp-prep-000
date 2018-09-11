@@ -20,9 +20,9 @@ function logWhisper (string)
 
 function sayHiToGrandma ()
 
-var string = "Hi Grandma";
+string = "Hi Grandma"
 
-if string.toLowerCase() === string;
+if (string.toLowerCase() === string)
   {
     return "I can't hear you!";
   }
